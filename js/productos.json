@@ -1,0 +1,81 @@
+[
+    {
+    "id": "zapatilla_1",
+    "nombre": "Zapatilla blanca con detalles en reptil y suela", 
+    "imagen": "./imagenes/foto1.jpg",
+    "precio": 25000,
+    "tipo": "Zapatillas"
+    },
+
+
+    {
+    "id": "zapatilla_2",
+    "nombre": "Zapatilla negra con detalle en reptil", 
+    "imagen":"./imagenes/foto2.jpg",
+    "precio": 25000,
+    "tipo": "Zapatillas"
+    } ,
+
+
+    { 
+    "id": "botineta_3",    
+    "nombre": "Botineta verde suela blanca", 
+    "imagen": "./imagenes/foto3.jpg",
+    "precio": 35000,
+    "tipo": "Botinetas"
+    },
+
+
+    {
+    "id": "botineta_4",
+    "nombre": "Botineta plateda con suela negra", 
+    "imagen": "./imagenes/foto4.jpg",
+    "precio": 30000,
+    "tipo": "Botinetas"
+    },
+
+
+    {
+    "id": "zapatilla_5",
+    "nombre": "Zapatilla negra con taco interno", 
+    "imagen": "./imagenes/foto5.jpg",
+    "precio":30000,
+    "tipo": "Zapatillas"
+    },
+
+
+    {
+    "id": "zapatilla_6",
+    "nombre": "Zapatilla plateada con taco interno", 
+    "imagen":"./imagenes/foto6.jpg",
+    "precio": 30000,
+    "tipo": "Zapatillas"
+    },
+
+
+    {
+    "id": "botineta_7",
+    "nombre": "Botineta color suela con medio taco", 
+    "imagen":"./imagenes/foto7.jpg",
+    "precio": 27000,
+    "tipo": "Botinetas"
+    },
+
+
+    {
+    "id": "botineta_8",
+    "nombre": "Botineta color camel con medio taco", 
+    "imagen":"./imagenes/foto8.jpg",
+    "precio": 27000,
+    "tipo": "Botinetas"
+    },
+
+    {
+    
+    "id": "bota_9",  
+    "nombre": "Bota texana negra caña alta", 
+    "imagen":"./imagenes/foto9.jpg",
+    "precio":40000,
+    "tipo": "Botas"
+    }
+]
